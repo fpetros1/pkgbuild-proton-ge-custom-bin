@@ -22,7 +22,6 @@
 - protonfixes: Add fix for Add fix for Senren * Banka (thanks R1kaB3rN)
 - protonfixes: Add fix for (Newest) Many WMP9 Video Playback fixes for Yuzusoft VN's (thanks R1kaB3rN)
 
-
 ## GE-Proton9-4
 
 - hotfix: fix issue with protonfixes not getting applied (R1kaB3rN)
